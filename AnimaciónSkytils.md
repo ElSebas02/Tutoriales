@@ -1,4 +1,5 @@
 #Como quitar la animación de inicio de Skytils.
+
 ~~(When you get banned in Skytils' Discord server :'v).~~
 
 En este texto les enseñare a quitar la animación que aparece cuando inician su Minecraft con el mod Skytils instalado.
