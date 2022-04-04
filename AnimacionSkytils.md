@@ -7,7 +7,8 @@ En este texto les enseñare a quitar la animación que aparece cuando inician su
  Para Windows:  
      -Oprime las teclas Windows+R, y escribe: `%appdata%\.minecraft\config\skytils`.
 
-**2.** Con la carpeta ya abierta abre el archivo _supersecretsettings.txt_, si no existe crealo.
+**2.** Con la carpeta ya abierta abre el archivo _supersecretsettings.txt_, si no existe crealo.  
+![supersecretsettings](https://i.imgur.com/s5N6gFM.png)
 
 **3.** Abre el archivo y escribe: ***`nosychic`***.
 
