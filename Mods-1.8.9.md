@@ -3,13 +3,12 @@
 TODO: Skyblock, PvP, añadir mas en "no recomendables."**  
 
 Hola.  
-En este post voy a listar todos los mods para minecraft 1.8.9 que me han parecido muy útiles en estos últimos 2 años.  
-La lista se divide en 4 partes: Mods genérales, mods para PvP, mods para Skyblock y mods NO recomendables.  
-Pero antes quiero compartir una lista de mods que remplazan a los clientes como Lunar Client o Badlion Client:  
-https://github.com/MicrocontrollersDev/Alternatives  
-Para configurarlos tienes que escribir su comando, casi siempre (por no decir siempre) es con: /NombreDelMod  
+En este post voy a listar todos los mods para minecraft 1.8.9 que me han parecido muy útiles en estos últimos 2 años; la lista se divide en 4 partes: Mods genérales, mods para PvP, mods para Skyblock y mods NO recomendables.  
 
-**Se que exite Skyclient, pero personalmente pienso que es demasiado estupido la serie de pasos para instalarlo en MultiMC/PolyMC.**  
+Para configurarlos tienes que escribir su comando, casi siempre (por no decir siempre) es con: /NombreDelMod  
+~~Así sera hasta que salga [OneConfig](https://github.com/Polyfrost/OneConfig).~~  
+
+**Se que exite [Skyclient](https://github.com/SkyblockClient/SkyblockClient), pero personalmente pienso que es poco intuitivo y demasiado estupido la serie de pasos a seguir para instalarlo en MultiMC/PolyMC.**  
 
 <details>
     <summary>Mods generales:</summary>
@@ -23,40 +22,40 @@ Mas info en: https://essential.gg/
 - Optifine:  
 https://optifine.net/downloads  
   
-- Patcher:  
+- Patcher: Performance y QOL.  
 https://sk1er.club/mods/patcher  
   
-- EvergreenHUD:  
+- EvergreenHUD: HUD con varias opciones, el mejor para la 1.8.9.  
 https://modrinth.com/mod/evergreenhud/versions  
 
-- VanillaHud:  
+- VanillaHud: QOL y visuales.  
 https://github.com/W-OVERFLOW/VanillaHUD/releases  
 
-- Hytilities Reborn:  
+- Hytilities Reborn: QOL para Hypixel.  
 https://github.com/W-OVERFLOW/Hytils-Reborn/releases  
 
-- Chatting:  
+- Chatting: Mejora para el chat.  
 https://github.com/W-OVERFLOW/Chatting/releases  
 
-- Redaction:  
+- Redaction: Visuales.  
 https://github.com/W-OVERFLOW/REDACTION/releases  
 
-- Crashpatch:  
+- Crashpatch: Mod para evitar que el juego se cierre en caso de crash.  
 https://github.com/W-OVERFLOW/CrashPatch/releases  
 
-- Keystrokes:  
+- Keystrokes: HUD para ver las teclas pulsadas.  
 https://sk1er.club/mods/keystrokesmod  
 
-- Autotip:  
+- Autotip: Ganar monedas y XP en Hypixel.  
 https://autotip.pro/download  
 
-- Levelhead:  
+- Levelhead: Poder ver el nivel de network de un usuario en Hypixel.  
 https://sk1er.club/mods/level_head  
 
-- Hypixel Auto Complete:  
+- Hypixel Auto Complete: Poder usar el TAB para completar los nombres.  
 https://sk1er.club/mods/hypixel_auto_complete  
 
-- Lobbysounds:  
+- Lobbysounds: Elimina los sonidos del lobby de Hypixel.  
 https://sk1er.club/mods/lobby_sounds  
 
   
