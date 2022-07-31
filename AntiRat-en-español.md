@@ -9,7 +9,7 @@ Normalmente estos te los envian por mensajes de Discord, así que si alguien te 
 ### ¿Comó se que lo que me enviaron no es parte del 1%?  
 Si se cumplen alguno de estos puntos, lo que te estan enviando es un token logger, por lo que debes reportarlo (pasos de ello mas abajo).  
 1. Es un mod de pago.  
-    Normalmente suelen enviar mods que son de pago, tales como [Skyblock Extras](https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md).  
+    Normalmente suelen enviar mods que son de pago totalmente gratis, tales como [Skyblock Extras](https://microcontrollersdev.github.io/Alternatives/1.8.9/skyblockextras/).  
     
 2. Te envia una prueba de "no virus" de [VirusTotal](https://www.virustotal.com/gui/home).  
     Aunque VirusTotal sea un sitio con buena reputación para detectar virus, este no puede detectar si el archivo recolecta tokens, por lo que la prueba no significa (casi) nada.  
@@ -18,19 +18,22 @@ Si se cumplen alguno de estos puntos, lo que te estan enviando es un token logge
     Suelen tomar nombres de mods populares como [Skytils](https://github.com/Skytils/SkytilsMod) , [Not Enough Updates](https://github.com/Moulberry/NotEnoughUpdates) o [Skyblock Addons](https://github.com/BiscuitDevelopment/SkyblockAddons), y los dan diciendo que "es una nueva beta privada" o una "versión que salio hace pocos minutos".  
     
 4. Son cuentas de amigos o conocidos hablandote en ingles.  
-Si tienes un amigo en Discord que sabes que habla español, pero para enviarte el mod te habla en ingles, significara que su cuenta fue vulnerara.  
+Si tienes un amigo en Discord que sabes que habla español, pero para enviarte el mod te habla en ingles... creo que es facil sospechar que su cuenta fue vulnerara.  
   
 5. Te envia un link para descargarlo desde Github.  
 Aunque Github sea donde se encuantran casi todos los mods, no es garantia de que sea legitimo.  
-Normalmente te mandan a la pagina de "releases", pero si vas a la pagina principal del repositorio la veras vacia (sin nada de codigo), parecido a [este mismo repositorio](https://github.com/ElSebas02/Tutoriales).
+Normalmente te mandan a la pagina de "releases", pero si vas a la pagina principal del repositorio la veras vacia (sin nada de codigo), parecido a este mismo repositorio:
+![troleador bana 2.0](https://i.imgur.com/JeS2LZQ.png)  
   
 6. **Sentido comun.**  
-¿Por que alguien te mandaria un mensaje compartiendote un mod?, no es muy logico, ¿verdad?.  
-Esto incluye a tus amigos, cuestionales el porque de este archivo y porque no manda el link de Github o la invitación del servidor oficial.
+¿Por que alguien te mandaria un mensaje compartiendote **el archivo** de un mod?, no es muy logico, ¿verdad?.  
+Esto incluye a tus amigos, cuestionales el porque de este archivo y por que no manda el link de Github o la invitación del servidor oficial.
 
 ## ¿Como lo reporto?  
 Dirigete a [este enlace](https://dis.gd/request) y rellena los campos requeridos, adjunta fotografias de la conversación.  
-Si tienes dudas visita [esta pagina](https://docs.discordsafe.com/docs/guide/reportar-discord), tiene todos los puntos detallados y en español.  
+Si tienes dudas visita [esta pagina](https://docs.discordsafe.com/docs/guide/reportar-discord#c%C3%B3mo-enviar-un-reporte), tiene todos los puntos detallados y en español.  
 
 ## He sido victima de esto, ¿Qué hago?  
 Inicia sesión en [tu cuenta de Microsoft](https://account.microsoft.com/) y cambia la contraseña, esto debe invalidar la sesión del "atacante", lo mismo aplica para [Discord](https://discord.com/channels/@me).  
+  
+Debes realizar esto aún si cuentas con autenticación de 2 factores.   
